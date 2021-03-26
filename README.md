@@ -1,4 +1,4 @@
-## How to Verify phone number using firebase in laravel 8
+## How To Generate Barcode In Laravel 8
 
 Read More: https://realprogrammer.in/how-to-generate-barcode-in-laravel-8
 ## About
